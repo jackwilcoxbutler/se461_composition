@@ -1,0 +1,3 @@
+workspace(SingleProjectWorkspace) {
+  composition.mpc
+}
